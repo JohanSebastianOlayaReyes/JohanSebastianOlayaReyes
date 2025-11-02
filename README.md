@@ -15,10 +15,10 @@
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
-Soy un joven de **18 años** apasionado por la tecnología y el desarrollo de software.  
-Me encanta transformar ideas en código funcional y crear soluciones que impacten  
-positivamente, cada línea de código es una oportunidad para aprender algo nuevo  
-y mejorar mis habilidades, mi objetivo es convertirme en un desarrollador excepcional  
+Soy un joven de **18 años** apasionado por la tecnología y el desarrollo de software.
+Me encanta transformar ideas en código funcional y crear soluciones que impacten
+positivamente, cada línea de código es una oportunidad para aprender algo nuevo
+y mejorar mis habilidades, mi objetivo es convertirme en un desarrollador excepcional
 y contribuir a proyectos innovadores que marquen la diferencia.
 
 ### 🎓 Educación
@@ -61,10 +61,10 @@ y contribuir a proyectos innovadores que marquen la diferencia.
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JohanSebastianOlayaReyes&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="208em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanSebastianOlayaReyes&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanSebastianOlayaReyes&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=6" />
 
-<img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=JohanSebastianOlayaReyes&theme=dark&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=7c3aed&currStreakLabel=c9d1d9" />
-<img width="43%" src="https://github-readme-activity-graph.vercel.app/graph?username=JohanSebastianOlayaReyes&bg_color=0d1117&color=a855f7&line=7c3aed&point=a855f7&area=true&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JohanSebastianOlayaReyes&theme=dark&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=7c3aed&currStreakLabel=c9d1d9" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=JohanSebastianOlayaReyes&bg_color=0d1117&color=a855f7&line=7c3aed&point=a855f7&area=true&hide_border=true" />
 
 </div>
 
