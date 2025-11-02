@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Johan%20Sebastian%20Olaya%20Reyes&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7c3aed,100:6b21a8&height=180&section=header&text=Johan%20Sebastian%20Olaya%20Reyes&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=a855f7&center=true&vCenter=true&width=600&lines=Desarrollador+Junior;Database+Lover;Clean+Code+Advocate" alt="Typing SVG" />
 
@@ -95,6 +95,5 @@ y contribuir a proyectos innovadores que marquen la diferencia.
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=JohanSebastianOlayaReyes.JohanSebastianOlayaReyes)
 
 </div>
----
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7c3aed,100:6b21a8&height=120&section=footer&animation=twinkling" />
