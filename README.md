@@ -4,9 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=a855f7&center=true&vCenter=true&width=600&lines=Desarrollador+Junior;Database+Lover;Clean+Code+Advocate" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-sebastian-olaya-reyes-60a582395/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsolayareyes@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohanSebastianOlayaReyes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-sebastian-olaya-reyes-60a582395/)
+[![Email](https://img.shields.io/badge/Email-a855f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsolayareyes@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-6b21a8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohanSebastianOlayaReyes)
 
 </div>
 
@@ -75,8 +75,8 @@ y contribuir a proyectos innovadores que marquen la diferencia.
 
 ### 🚀 Abierto a oportunidades laborales como Desarrollador Junior
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Johan_Sebastian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-sebastian-olaya-reyes-60a582395/)
-[![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsolayareyes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Johan_Sebastian-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-sebastian-olaya-reyes-60a582395/)
+[![Email](https://img.shields.io/badge/Email-Contáctame-a855f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsolayareyes@gmail.com)
 
 ---
 
